@@ -5,29 +5,10 @@
 </div>
 
 ---
-
 ### About me 
-Enfoque actual en el **diseño y desarrollo de interfaces web** funcionales y atractivas. Mi meta a corto plazo es evolucionar hacia la **automatización de procesos y sistemas** para construir soluciones que optimicen la infraestructura tecnológica.
+My current focus is on the **design and development of functional and engaging web interfaces**. My short-term goal is to evolve towards **process and systems automation** to build solutions that optimize technological infrastructure.
 
-* Actualmente: Creando experiencias web.
-* En formación: En **Automatización** con Python.
-
+* Currently: Creating web experiences.
+* In training: In **Automation** with Python.
 ---
 
-### 🛠️ My Tech Stack
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Desarrollo** | Python (Flask), React Native, Supabase, SQL |
-| **Ciberseguridad** | Fundamentos de Seguridad Ofensiva, Análisis de Vulnerabilidades |
-| **Herramientas** | Git, GitHub, Docker, Entornos Virtuales |
-
----
-
-###  GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark" alt="Top Langs" />
-</div>
-
----
