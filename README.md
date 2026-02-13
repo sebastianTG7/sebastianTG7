@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 Hello, I'm Sebastian | Systems Engineering Student
 
-<!--
-**sebastianTG7/sebastianTG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://stats.uptimerobot.com/img/9b8c7d.png" alt="IT & Systems" width="100%">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 
+Enfoque actual en el **diseño y desarrollo de interfaces web** funcionales y atractivas. Mi meta a corto plazo es evolucionar hacia la **automatización de procesos y sistemas** para construir soluciones que optimicen la infraestructura tecnológica.
+
+* Actualmente: Creando experiencias web.
+* En formación: En **Automatización** con Python.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Desarrollo** | Python (Flask), React Native, Supabase, SQL |
+| **Ciberseguridad** | Fundamentos de Seguridad Ofensiva, Análisis de Vulnerabilidades |
+| **Herramientas** | Git, GitHub, Docker, Entornos Virtuales |
+
+---
+
+###  GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark" alt="Top Langs" />
+</div>
+
+---
