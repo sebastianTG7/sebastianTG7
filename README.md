@@ -1,8 +1,4 @@
-# 👨‍💻 Hello, I'm Sebastian | Systems Engineering Student
-
-<div align="center">
-  <img src="https://stats.uptimerobot.com/img/9b8c7d.png" alt="IT & Systems" width="100%">
-</div>
+## 👨‍💻 Hello, I'm Sebastian | Systems Engineering Student
 
 ---
 ### About me 
